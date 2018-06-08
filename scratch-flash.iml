@@ -23,7 +23,7 @@
           </map>
         </compiler-options>
         <packaging-air-desktop />
-        <packaging-android />
+        <packaging-android />com.mit.team.scratch </packaging-android>
         <packaging-ios />
       </configuration>
       <configuration name="Release" pure-as="true" main-class="Scratch" output-file="Release.swf" output-folder="$MODULE_DIR$/bin-release">
